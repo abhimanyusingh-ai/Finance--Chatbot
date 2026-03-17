@@ -1,0 +1,20 @@
+{
+  "intents": [
+    {
+      "patterns": ["hi", "hello"],
+      "responses": ["Hello! How can I help you?"]
+    },
+    {
+      "patterns": ["what is forex", "explain forex"],
+      "responses": ["Forex is the market for trading currencies."]
+    },
+    {
+      "patterns": ["crypto", "cryptocurrency"],
+      "responses": ["Crypto is digital currency like Bitcoin."]
+    },
+    {
+      "patterns": ["risk", "risk management"],
+      "responses": ["Always risk only a small percentage per trade."]
+    }
+  ]
+}
